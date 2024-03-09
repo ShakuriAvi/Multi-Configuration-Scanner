@@ -19,3 +19,4 @@ sendgrid==6.9.7
 SQLAlchemy==1.4.39
 uvicorn[standard]==0.18.2
 opencv-python-headless==4.8.1.78
+
