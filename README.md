@@ -61,6 +61,7 @@ T1219: Remote Access Software: Attackers may exploit vulnerabilities in version 
 ![image](https://github.com/ShakuriAvi/Multi-Configuration-Scanner/assets/65177459/6bae7700-6b90-49c1-aea9-77363a2cd3cf)
 To run the project, you need pull the main, install the requirements file and add a cfg.py file (I will attach a picture below of how the file should look).
 ![image](https://github.com/ShakuriAvi/Multi-Configuration-Scanner/assets/65177459/e2a763f9-1d7e-4c49-9eee-34e11d114138)
+
 You need add a permission to your repository.
 * About the Ptoject:
 The project is based on the thread producer-consumer design pattern(although not with a queue, but I used a generator that provides tasks and some workers that pull and execute them when they are free). I also used Factory to support different types of files and add them without changing any code.  I kept the SOLID principles throughout the project with the help of inheritance and abstract classes. It was really nice to learn how to work with PR in front of Git using the PYGitHub library (we use AWS). My focus is on the design and working on a large scale. There are three algorithms I implemented in order to update the user whose configuration needs to be changed:
