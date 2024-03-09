@@ -1,0 +1,6 @@
+{
+  "authentication": {
+    "method": "password",
+    "enable_mfa": false
+  }
+}
