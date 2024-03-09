@@ -1,3 +1,4 @@
 audit:
   log_retention_days: 30
   logging_enabled: true
+management_enabled: true
