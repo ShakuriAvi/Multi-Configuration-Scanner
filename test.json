@@ -1,5 +1,1 @@
-{
-  "authorized_users":["user1", "user2", "user3"],
-  "denied_user":["user1", "user4", "user5"]
-  
-}
+{"authorized_users": ["user3", "user2"], "denied_user": ["user1", "user4", "user5"]}
