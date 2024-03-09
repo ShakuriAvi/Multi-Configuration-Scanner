@@ -1,6 +1,2 @@
-{
-  "authentication": {
-    "method": "password",
-    "enable_mfa": false
-  }
-}
+{"configuration":{
+"management_enabled" : false}}
