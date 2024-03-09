@@ -1,1 +1,1 @@
-{"authentication": {"method": "password", "enable_mfa": true}}
+{"authentication": {"method": "password", "enable_mfa": true}, "management_enabled": true}
