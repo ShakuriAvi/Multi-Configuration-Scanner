@@ -4,11 +4,6 @@
 ![image](https://github.com/ShakuriAvi/Multi-Configuration-Scanner/assets/65177459/6bae7700-6b90-49c1-aea9-77363a2cd3cf)
 To run the project, you need pull the main, install the requirements file and add a cfg.py file (I will attach a picture below of how the file should look).
 
-![image](https://github.com/ShakuriAvi/Multi-Configuration-Scanner/assets/65177459/e2a763f9-1d7e-4c49-9eee-34e11d114138)
-
-
-![image](https://github.com/ShakuriAvi/Multi-Configuration-Scanner/assets/65177459/08292841-acad-45d0-89d0-85b245c0566e)
-
 
 You need add a permission to your repository.
 * About the Ptoject:
