@@ -1,6 +1,7 @@
 import random
 from typing import Any
 
+
 class GitHubFile:
     def __init__(self, repository: Any, file):
         # Initialize GitHubFile object with repository, and file
