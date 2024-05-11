@@ -54,6 +54,7 @@ class TextParser(IFile):
     def get_file_type(self):
         return self.file_type
 
+
 # Factory class for creating parser objects
 class FileFactory:
     def create(self, file: GitHubFile):
