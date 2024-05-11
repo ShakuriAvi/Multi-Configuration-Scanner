@@ -8,6 +8,7 @@ class AuthControlScanner(Handler):
         # Initialize the files_type attribute with file types to be scanned
         self.files_type = ("json")
 
+    
     def scan_and_fix(self, config_file: Any):
         try:
             # Get the file name from the config_file
