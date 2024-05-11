@@ -20,6 +20,7 @@ class ScanPipeline(Scanner):
         # Initialize a list of scanners
         self.scanners = [ConfigurationAWSCredScanner(), AuthControlScanner(), RequirementsVulnerabilities()]
 
+    
     # Method to scan the file using multiple scanners
     def scan(self, file: IFile):
         # Iterate over each scanner in the list
