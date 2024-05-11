@@ -7,6 +7,7 @@ class RequirementsVulnerabilities(Handler):
         # Define the supported file type
         self.files_type = ("txt")
 
+    
     def scan_and_fix(self, config_file: Any):
         try:
             # Check if the file type is supported and if the file name contains "requirement"
