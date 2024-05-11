@@ -5,3 +5,4 @@ class Repository:
     def __init__(self, user, repo_name):
         self.user = user
         self.repo_name = repo_name
+    
