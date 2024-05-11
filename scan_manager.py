@@ -3,6 +3,7 @@ from scan_pipeline import ScanPipeline  # Import the ScanPipeline class
 from concurrent.futures import ThreadPoolExecutor  # Import ThreadPoolExecutor
 from entity.file import IFile  # Import the IFile interface
 
+
 class ScanManager:
     def __init__(self):
         self.github_accessor = GithubAccessor()  # Initialize GithubAccessor
