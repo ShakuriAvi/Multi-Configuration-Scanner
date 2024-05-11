@@ -7,6 +7,7 @@ class ConfigurationAWSCredScanner(Handler):
         # Define the supported file types
         self.files_type = ("txt", "json", "yaml")
 
+    
     def scan_and_fix(self, config_file:Any):
         try:
             # Extract file name and check if file type is supported
