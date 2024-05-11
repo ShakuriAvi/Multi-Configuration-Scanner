@@ -6,6 +6,7 @@ class GithubAccessor:
     def __init__(self):
         self.accounts_config = ACCOUNTS_SETTINGS
 
+    
 
     def stream_files(self):
         accounts_list = []
