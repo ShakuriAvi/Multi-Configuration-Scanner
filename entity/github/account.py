@@ -2,7 +2,6 @@ from github import Auth, Github
 from entity.github.repository import Repository
 from typing import List
 
-
 class Account:
     def __init__(self, **kwargs):
         # Initialize Account object with account name and access token
